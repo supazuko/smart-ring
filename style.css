@@ -1,0 +1,181 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    /* font-family: 'Varela Round', sans-serif; */
+    font-size: 100%;
+    vertical-align: botton;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.navbar {
+
+    background-color: white;
+    padding: 30px;
+}
+
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.span1 {
+    color: orange;
+}
+
+.line {
+    padding-left: 10px;
+    padding-right: 30px;
+    border-left: 1px solid black;
+
+}
+
+.no-line {
+    padding-left: 20px;
+
+}
+
+.social-line {
+
+    padding-left: 20px;
+    padding-right: 20px; 
+    border-left: 1px solid black;
+
+}
+
+.container {
+
+    margin: 0 auto;
+    width: 800px;
+    padding-bottom: 70px;
+    padding-top: 70px;
+
+}
+
+.img-1 {
+
+    width: 300px;
+    float: left;
+}
+
+.description {
+
+    width: 400px;
+    float: right;
+
+
+}
+
+h4 {
+    color: orange;
+    font-size: 13px;
+    padding-bottom: 10px;
+}
+
+h1 {
+    font-size: 40px;
+    padding-bottom: 10px;
+
+}
+
+.text-descrip {
+    padding-bottom: 15px;
+}
+
+.img-2 {
+
+    width: 200px;
+    float: left;
+
+}
+
+.extra-details {
+
+    float: right;
+
+}
+
+.extra-details p {
+    margin: 0 auto;
+    padding-bottom: 50px;
+
+}
+
+.extra-details button {
+
+    background-color: orangered;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+}
+
+main {
+
+    position: relative;
+
+}
+
+.sidebar {
+    
+    background: black;
+    position: absolute;
+    right: 0px;
+    bottom: 50px;
+    height: 400px;
+    padding: 30px;
+    margin: 0 auto;
+    color: white;
+
+}
+
+.text-vertical{
+    writing-mode: vertical-rl;
+    padding-bottom: 30px;
+}
+
+.aside-line{
+    border: 1px solid;
+    margin-left: 5px;
+
+}
+
+.arrow{
+    margin-top: 50px;
+}
+
+
+.box-label{
+
+    margin-right: 50px;
+    text-align: center;
+}
+
+
+.downbar {
+
+    background-color: white;
+    padding: 30px;
+}
+
+.downbox-label{
+
+    margin-right: 150px;
+    text-align: center;
+}
+
+
+.clear-fix {
+
+    clear: both;
+
+}
